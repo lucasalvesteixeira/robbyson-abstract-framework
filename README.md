@@ -1,6 +1,8 @@
 ## Usage & Instructions
 
-This is a set of abstract methods that implement CRUD functionality. By extending the classes by explicitly explaining the data models, all operations will be inherited.
+This is a project restricted to a certain group of developers. The use of its features depends on a preconfigured macro environment.
+
+The implementation contains abstract methods with CRUD functionality. By extending the classes explicitly explaining the data models, all operations will be inherited.
 
 # Installing
 ```

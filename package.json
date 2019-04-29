@@ -1,6 +1,6 @@
 {
   "name": "robbyson-abstract-framework",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generic framework for operation CRUD",
   "author": "Lucas Alves Teixeira <lucasalvesteixeira@gmail.com>",
   "keywords": [

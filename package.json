@@ -7,7 +7,8 @@
     "backend",
     "node server",
     "typescript",
-    "abstract"
+    "abstract",
+    "CRUD"
   ],
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
